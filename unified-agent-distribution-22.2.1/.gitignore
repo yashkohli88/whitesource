@@ -1,0 +1,4 @@
+*.iml
+.idea/
+/dockerized/data/
+/dockerized/wss/
